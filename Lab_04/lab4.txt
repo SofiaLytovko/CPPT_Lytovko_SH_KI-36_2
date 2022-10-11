@@ -1,0 +1,7 @@
+Chassis closed
+Engine refuel...
+Remain fuel: 990
+Remain fuel: 980
+Remain fuel: 970
+Remain fuel: 960
+Remain bombs: 49
