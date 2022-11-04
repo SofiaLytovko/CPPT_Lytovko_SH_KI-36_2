@@ -5,8 +5,8 @@ package ki36.Lytovko.lab_04;
  * 
  */
 public class Bomber extends Plane implements IBomber{
-
-    private int bombs = 50;
+    
+	private int bombs = 50;
     /**
      * Constructor
      * @throws Exception
